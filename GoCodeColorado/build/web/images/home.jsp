@@ -1,6 +1,6 @@
 <%-- 
-    Document   : matches
-    Created on : Apr 12, 2015, 10:18:46 AM
+    Document   : home
+    Created on : Apr 12, 2015, 9:10:28 AM
     Author     : rsjodin
 --%>
 
@@ -11,7 +11,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>surpris - Free CSS Template by ZyPOP</title>
-        <link rel="stylesheet" href="styles.css" type="text/css" />
+        <link rel="stylesheet" href="../../images/styles.css" type="text/css" />
     </head>
 
     <body>
@@ -22,15 +22,15 @@
             </div>
             <div id="nav">
                 <ul>
-                    <li class="selected"><a href="index.html">Home</a></li>
-                    <li><a href="create_account.html">Register</a></li>
+                    <li class="selected"><a href="../../images/index.html">Home</a></li>
+                    <li><a href="../../images/create_account.html">Register</a></li>
                     <li><a href="#">needs</a></li>
                     <li><a href="#">skills</a></li>
                 </ul>
             </div>
             <div id="body">
                 <div id="content">
-                    <h1>My Matches</h1>
+                    <h1>My Needs / Capabilities</h1>
                     <div class="box">
                         <!--h2>Introduction</h2 -->
                         <!-- p>&nbsp;</p -->
@@ -38,31 +38,29 @@
 
                         <table>
                             <tr>
-                                <th width="44%">Title/Name</th>
-                                <th width="44%">Description</th>
-                                <th width="12%">% Strength</th>
+                                <th>Title/Name</th>
+                                <th>Start Date</th>
+                                <th>Stop Date</th>
+                                <th>Pub Start Date</th>
+                                <th>Pub Stop Date</th>
+                                <th>Matches</th>
                             </tr>
                             <tr>
-                                <td><a href="">Regis University Computer Science Interns</a></td>
-                                <td>The computer science department at Regis University has the capability to provide ten students for a summer internship</td>
-                                <td>89</td>
+                                <td>Maptek Interns</td>
+                                <td>2015-09-01</td>
+                                <td>2016-05-01</td>
+                                <td>2015-04-01</td>
+                                <td>2016-01-01</td>
+                                <td class="nav" align="center">4</td>
                             </tr>
                             <tr>
-                                <td><a href="">Regis University Applied Machine Learning Project Sought</a></td>
-                                <td>The data sciences department at Regis University has the capability to provide applied machine learning project assistance</td>
-                                <td>61</td>
+                                <td>Maptek Research</td>
+                                <td>2015-05-01</td>
+                                <td>2016-05-01</td>
+                                <td>2015-04-01</td>
+                                <td>2016-01-01</td>
+                                <td  class="nav" align="center">1</td>
                             </tr>
-                            <tr>
-                                <td><a href="">Regis University Student Teachers Available</a></td>
-                                <td>The School of Education has the capability to provide 15 student teachers</td>
-                                <td>54</td>
-                            </tr>
-                            <tr>
-                                <td><a href="">Regis University Senior Capstone Projects Sought</a></td>
-                                <td>The information technology senior capstone class has the capability to provide support for IT infrastructure projects during the Fall of 2015</td>
-                                <td>33</td>
-                            </tr>
-
                         </table>
 
                     </div>
@@ -97,7 +95,7 @@
 
                     <span class="sitename">RUamatch</span>
                     <p class="footer-links">
-                        <a href="index.html">MyCardboard</a><a href="#">Groups</a>
+                        <a href="../../images/index.html">MyCardboard</a><a href="#">Groups</a>
                         <a href="#">Global</a>
                         <a href="#container" class="backtotop">Back to top</a>
                     </p>
@@ -110,3 +108,16 @@
         </div>
     </body>
 </html>
+
+
+
+
+<!--html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+    </body>
+</html-->

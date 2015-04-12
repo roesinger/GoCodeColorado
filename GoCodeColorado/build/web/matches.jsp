@@ -43,13 +43,26 @@
                                 <th width="12%">% Strength</th>
                             </tr>
                             <tr>
-                                <td>Regis University Computer Science Interns</td>
+                                <td><a href="">Regis University Computer Science Interns</a></td>
                                 <td>The computer science department at Regis University has the capability to provide ten students for a summer internship</td>
                                 <td>89</td>
                             </tr>
                             <tr>
-
+                                <td><a href="">Regis University Applied Machine Learning Project Sought</a></td>
+                                <td>The data sciences department at Regis University has the capability to provide applied machine learning project assistance</td>
+                                <td>61</td>
                             </tr>
+                            <tr>
+                                <td><a href="">Regis University Student Teachers Available</a></td>
+                                <td>The School of Education has the capability to provide 15 student teachers</td>
+                                <td>54</td>
+                            </tr>
+                            <tr>
+                                <td><a href="">Regis University Senior Capstone Projects Sought</a></td>
+                                <td>The information technology senior capstone class has the capability to provide support for IT infrastructure projects during the Fall of 2015</td>
+                                <td>33</td>
+                            </tr>
+
                         </table>
 
                     </div>

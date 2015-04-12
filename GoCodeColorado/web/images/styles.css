@@ -195,7 +195,7 @@ li ol, li ul {
 
 #header {
 	padding: 0px 15px;
-	background: #4C9B43 url('images/header.jpg') repeat-x scroll top left;
+	background: #4C9B43 url('../../images/images/header.jpg') repeat-x scroll top left;
 	margin: 0 auto;
 	height: 125px;
 }
@@ -225,7 +225,7 @@ li ol, li ul {
 #nav {
 	height: 37px;
 	width: 960px;
-	background: #111 url('images/nav-bg.jpg') repeat-x scroll;
+	background: #111 url('../../images/images/nav-bg.jpg') repeat-x scroll;
 }
 
 #nav ul {
@@ -258,7 +258,7 @@ li ol, li ul {
 }
 
 #nav ul li.selected a, #nav ul li.selected a:hover {
-	background:#ddd url('images/nav-selected.jpg') repeat-x scroll;
+	background:#ddd url('../../images/images/nav-selected.jpg') repeat-x scroll;
 	color: #333;
 	padding: 17px 15px 13px;
 }
@@ -356,7 +356,7 @@ li ol, li ul {
 	line-height: 1.9em;
 	padding: 5px;
 	font-weight: bold;
-	background: #50A145 url('images/header.jpg') repeat-x center;
+	background: #50A145 url('../../images/images/header.jpg') repeat-x center;
 }
 
 .clear {
@@ -378,7 +378,7 @@ li ol, li ul {
 
 .footer-content {
 	padding: 30px 15px 60px;
-	background: #4C9B43 url('images/header.jpg') repeat-x scroll center;
+	background: #4C9B43 url('../../images/images/header.jpg') repeat-x scroll center;
 }
 
 #footer .footer-content p {
@@ -423,7 +423,7 @@ li ol, li ul {
 	padding: 7px 15px 0;
 	height: 30px;
 	color: #666;
-	background: #111 url('images/nav-bg.jpg') repeat-x scroll;
+	background: #111 url('../../images/images/nav-bg.jpg') repeat-x scroll;
 }
 
 #footer .footer-bottom p {
